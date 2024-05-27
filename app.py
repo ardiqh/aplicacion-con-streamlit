@@ -51,6 +51,3 @@ if uploaded_file is not None:
             st.pyplot(fig)
 else:
     st.write('Por favor, sube un archivo CSV para empezar.')
-
-# Ejecución: Guarda este archivo como app.py y corre con el comando:
-# streamlit run app.py
